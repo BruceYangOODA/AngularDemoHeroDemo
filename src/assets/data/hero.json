@@ -1,0 +1,84 @@
+[
+    {
+    "id": "1",
+    "name": "AltriaPendragon",
+    "avatarUrl": "/assets/images/hero/avatar/001A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/001.jpg"
+  },{
+    "id": "2",
+    "name": "Scathach",
+    "avatarUrl": "/assets/images/hero/avatar/002A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/002.jpg"
+  },{
+    "id": "3",
+    "name": "Astolfo",
+    "avatarUrl": "/assets/images/hero/avatar/003A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/003.jpg"
+  },{
+    "id": "4",
+    "name": "Emiya",
+    "avatarUrl": "/assets/images/hero/avatar/004A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/004.jpg"
+  },{
+    "id": "5",
+    "name": "ZhugeKongming",
+    "avatarUrl": "/assets/images/hero/avatar/005A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/005.jpg"
+  },{
+    "id": "6",
+    "name": "RaikouMinamotono",
+    "avatarUrl": "/assets/images/hero/avatar/006A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/006.jpg"
+  },{
+    "id": "7",
+    "name": "SoujiOkita",
+    "avatarUrl": "/assets/images/hero/avatar/007A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/007.jpg"
+  },{
+    "id": "8",
+    "name": "JeannedArc",
+    "avatarUrl": "/assets/images/hero/avatar/008A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : true,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/008.jpg"
+  },{
+    "id": "9",
+    "name": "LiShuwen",
+    "avatarUrl": "/assets/images/hero/avatar/009A.png",
+    "alterEgo" : "",
+    "likes" :  0,
+    "default" : false,    
+    "avatarBlurredUrl" : "",
+    "avatarThumbnailUrl" :"/assets/images/hero/icon/009.jpg"
+  }
+]

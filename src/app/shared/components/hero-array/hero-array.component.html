@@ -1,0 +1,26 @@
+<div style="width: 50%;  margin-left:25%;" *ngIf="heroes">
+    <h1 style="margin-left: 30%;">{{ 'hero array' | translate}}</h1>
+    <mat-card *ngFor="let hero of heroList" class="card">
+        <div style="display: flex;">
+            <div>
+                <img class="abc" *ngIf="hero.avatarThumbnailUrl != null; else placeholderImage"
+                    [src]="hero.avatarThumbnailUrl" (click)="navigate(hero.id)">
+                <ng-template #placeholderImage>
+                    <img src="">
+                </ng-template>
+            </div>
+            <div style="margin-left:30px;margin-top: 5%;">
+                <h2>{{ hero.name}}
+                    <mat-icon class="icon__like--red like" (click)="like(hero)">
+                        favorite
+                      </mat-icon>
+                </h2>    
+            </div>
+        </div>
+    </mat-card>
+<mat-paginator #matpaginator style="width: 130%;  margin-left:-40%;" [length]="herolength"
+[pageSize]="pageSize" [pageSizeOptions]="[1,3,8]"
+(page)="pageEvent = $event; onPaginateChange($event)"
+showFirstLastButtons>
+</mat-paginator>
+</div>

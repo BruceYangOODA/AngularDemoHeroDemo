@@ -1,0 +1,26 @@
+{
+    "choose_language": "選擇語言",
+    "language.english": "英文",
+    "language.chinese": "中文",
+    "title": "國際化",
+    "welcome": "歡迎",
+    "home": "首頁",
+    "hero list": "英雄列表",
+    "findHero": "搜尋英雄",
+    "hero_detail": "英雄詳細",
+    "go_back": "返回",
+    "next":"下一位",
+    "previous": "上一位",
+    "hero array": "英雄清單",
+    "create a hero": "創建英雄",
+    "create": "創建",
+    "name is required": "請填入姓名",
+    "nickname is required": "請填入暱稱",
+    "over 30 words limit": "超過30字限制",
+    "real name": "真名",
+    "nickname": "暱稱",
+    "Hero": "英雄",
+    
+    "redarcher": "紅A",
+    "bluesaber": "藍毛"
+}

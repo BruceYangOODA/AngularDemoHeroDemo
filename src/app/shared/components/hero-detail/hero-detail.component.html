@@ -1,0 +1,29 @@
+<h1 class="header__title" style="margin-left: 40%;">{{ 'hero_detail'| translate}}</h1>
+<div class="container" *ngIf="!hero">
+    <app-hero-loading></app-hero-loading>
+</div>
+<div class="container" *ngIf="hero">
+    <ng-container>
+        <app-hero-card [hero]="hero"></app-hero-card>
+        <div id="hero-json">
+            <pre>{{hero | json}}</pre>
+        </div>
+    </ng-container>
+</div>
+<!--button *ngIf="hero" aria-label="Anchor the hero button" mat-raised-button type="button" (click)="goToAnchor()"
+        >
+  Anchor the hero
+</!--button-->
+
+
+<button aria-label="Go back button" mat-raised-button type="button" (click)="previous()">
+    {{'previous' | translate}}
+</button>
+
+<button aria-label="Go back button" mat-raised-button type="button" (click)="goBack()">
+    {{'go_back' | translate}}
+</button>
+
+<button aria-label="Go back button" mat-raised-button type="button" (click)="next()">
+    {{'next' | translate}}
+</button>

@@ -1,0 +1,26 @@
+{
+    "choose_language": "Choose your language",
+    "language.english": "English",
+    "language.chinese": "Chinese",
+    "title": "i18n",
+    "welcome": "WELLCOME",
+    "home": "HOME",
+    "hero list": "HERO LIST",
+    "findHero": "Find Hero",
+    "hero_detail": "Hero Detail",
+    "go_back": "Go Back",
+    "next":"NEXT",
+    "previous": "PREV",
+    "hero array": "HERO ARRAY",
+    "create a hero": "Create a hero",
+    "create": "Create",
+    "name is required": "Name is required",
+    "nickname is required": "Nickame is required",
+    "over 30 words limit": "over 30 words limit",
+    "real name": "Real name",
+    "nickname": "Nickname",
+    "Hero": "Heroes",
+
+    "redarcher": "RedArcher",
+    "bluesaber": "BlueSaber"
+}
